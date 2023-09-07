@@ -1,0 +1,12 @@
+installDockerEnv: Completed
+downloadImages: NotCompleted
+deployJDK: Completed
+updateConfigFiles: Completed
+deployLDAP: Completed
+deployDB2: Completed
+deployCPE: Completed
+createP8Domain: Completed
+createP8os: Completed
+createWF: Completed
+deployICN: Completed
+createICNDesktop: NotCompleted

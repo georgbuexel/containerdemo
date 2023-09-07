@@ -1,0 +1,530 @@
+20230906193413 
+You have accepted the IBM software license agreements, continuing to run now.
+The script are running on a Mac OS, below is the system info:
+================================================================================
+Host  name: Ingos-MBP.home.arpa
+OS version: 		macOS  13.5.1
+Kernel:     Darwin Kernel Version 22.6.0
+CPU:        8  Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz
+CPU load average (1/5/15 mins):  1.66 2.30 2.24
+--------------------------------------------------------------------------------
+PhysMem: 56G used (4760M wired, 360M compressor), 8585M unused.
+--------------------------------------------------------------------------------
+Filesystem       Size   Used  Avail Capacity iused       ifree %iused  Mounted on
+/dev/disk1s1s1  1.8Ti  8.5Gi  1.7Ti     1%  356050  4294310798    0%   /
+devfs           190Ki  190Ki    0Bi   100%     658           0  100%   /dev
+/dev/disk1s2    1.8Ti  1.7Gi  1.7Ti     1%     966 18123945480    0%   /System/Volumes/Preboot
+/dev/disk1s4    1.8Ti  1.0Gi  1.7Ti     1%       1 18123945480    0%   /System/Volumes/VM
+/dev/disk1s6    1.8Ti  5.7Mi  1.7Ti     1%      22 18123945480    0%   /System/Volumes/Update
+/dev/disk1s5    1.8Ti  122Gi  1.7Ti     7%  612945 18123945480    0%   /System/Volumes/Data
+map auto_home     0Bi    0Bi    0Bi   100%       0           0  100%   /System/Volumes/Data/home
+================================================================================
+/Users/inzitzma/Temp/Container-PIT/install-scripts/gatherHostInfo.sh: line 115: 1.7Ti: syntax error: invalid arithmetic operator (error token is ".7Ti")
+[36mFound correct OpenLDAP container[0m
+[36mFound correct DB2 container[0m
+==========================================
+Wed Sep  6 19:34:21 CEST 2023
+Begin to check user credential
+Docker Hub User Id and password found in file, continue the installation now.
+[36mFinished getting user's credential [0m
+==========================================
+Skipping installDockerEnv.sh, as it was completed during previous execution!
+downloadImages.sh was not run before, running now!
+Skipping deployJDK.sh, as it was completed during previous execution!
+Skipping updateConfigFiles.sh, as it was completed during previous execution!
+Skipping deployLDAP.sh, as it was completed during previous execution!
+Skipping deployDB2.sh, as it was completed during previous execution!
+Skipping deployCPE.sh, as it was completed during previous execution!
+Skipping createP8Domain.sh, as it was completed during previous execution!
+Skipping createP8os.sh, as it was completed during previous execution!
+Skipping createWF.sh, as it was completed during previous execution!
+Skipping deployICN.sh, as it was completed during previous execution!
+createICNDesktop.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:34:21 CEST 2023
+Create ICN desktop 'ECM' with repository 'P8Repository'
+0. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+1. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+2. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+3. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+4. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+5. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+6. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+7. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+8. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+9. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+10. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+11. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+12. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+13. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+14. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+15. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+16. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+17. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+18. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+19. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+20. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+21. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+22. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+23. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+24. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+25. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+26. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+27. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+28. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+29. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+30. Navigator has not started yet, wait 30 seconds and try again....
+usage: sleep seconds
+Content Navigator did not start. Please check the container log file for details.
+20230906193755 
+You have accepted the IBM software license agreements, continuing to run now.
+The script are running on a Mac OS, below is the system info:
+================================================================================
+Host  name: Ingos-MBP.home.arpa
+OS version: 		macOS  13.5.1
+Kernel:     Darwin Kernel Version 22.6.0
+CPU:        8  Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz
+CPU load average (1/5/15 mins):  2.81 2.28 2.22
+--------------------------------------------------------------------------------
+PhysMem: 56G used (4771M wired, 360M compressor), 8261M unused.
+--------------------------------------------------------------------------------
+Filesystem       Size   Used  Avail Capacity iused       ifree %iused  Mounted on
+/dev/disk1s1s1  1.8Ti  8.5Gi  1.7Ti     1%  356050  4294310798    0%   /
+devfs           190Ki  190Ki    0Bi   100%     658           0  100%   /dev
+/dev/disk1s2    1.8Ti  1.7Gi  1.7Ti     1%     966 18124250440    0%   /System/Volumes/Preboot
+/dev/disk1s4    1.8Ti  1.0Gi  1.7Ti     1%       1 18124250440    0%   /System/Volumes/VM
+/dev/disk1s6    1.8Ti  5.7Mi  1.7Ti     1%      22 18124250440    0%   /System/Volumes/Update
+/dev/disk1s5    1.8Ti  122Gi  1.7Ti     7%  612985 18124250440    0%   /System/Volumes/Data
+map auto_home     0Bi    0Bi    0Bi   100%       0           0  100%   /System/Volumes/Data/home
+================================================================================
+/Users/inzitzma/Temp/Container-PIT/install-scripts/gatherHostInfo.sh: line 115: 1.7Ti: syntax error: invalid arithmetic operator (error token is ".7Ti")
+[36mFound correct OpenLDAP container[0m
+[36mFound correct DB2 container[0m
+==========================================
+Wed Sep  6 19:38:03 CEST 2023
+Begin to check user credential
+Docker Hub User Id and password found in file, continue the installation now.
+[36mFinished getting user's credential [0m
+==========================================
+installDockerEnv.sh was not run before, running now!
+==========================================
+Begin installing docker libraries
+Wed Sep  6 19:38:03 CEST 2023
+Docker already installed and running...
+Docker is running.
+WARNING: daemon is not using the default seccomp profile
+Current allocated memory for Docker is 7.674 GB.
+Your memory setting satisfied the requirement.
+/Users/inzitzma/Temp/Container-PIT/install-scripts/installDockerEnv.sh: line 131: easy_install: command not found
+WARNING: The directory '/Users/inzitzma/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Requirement already satisfied: docker-py in /usr/local/lib/python3.11/site-packages (1.10.6)
+Requirement already satisfied: docker-pycreds>=0.2.1 in /usr/local/lib/python3.11/site-packages (from docker-py) (0.4.0)
+Requirement already satisfied: requests!=2.11.0,>=2.5.2 in /usr/local/lib/python3.11/site-packages (from docker-py) (2.31.0)
+Requirement already satisfied: six>=1.4.0 in /usr/local/lib/python3.11/site-packages (from docker-py) (1.16.0)
+Requirement already satisfied: websocket-client>=0.32.0 in /usr/local/lib/python3.11/site-packages (from docker-py) (1.6.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (3.2.0)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (2.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (2023.7.22)
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[36mFinished installing all required libraries[0m
+==========================================
+downloadImages.sh was not run before, running now!
+deployJDK.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:38:04 CEST 2023
+Begin to deploy ibmjava:8-sdk as ibmjdk
+Start JDK docker container now...
+[36mFinished deploying ibmjdk container successfully [0m
+==========================================
+updateConfigFiles.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:38:05 CEST 2023
+Begin to update the configuration files for P8 and ICN
+Begin to set hostname to Ingos-MBP.home.arpa:
+  - Updated hostname for setProperties.sh
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/FNGCDDS.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/OS1DB.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/common/ldap.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/ICN/ICNDS.xml
+Updated ldap password in /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/common/ldap.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/DB2/.env_list
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/FNGCDDS.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/OS1DB.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/ICN/ICNDS.xml
+No need to update the volume folder location.
+  - CPE_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/cpe_data
+  - ICN_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/icn_data
+  - DB2_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/db2_data
+[36mFinished updating all the configuration files, now we are ready to go! [0m
+==========================================
+deployLDAP.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:38:05 CEST 2023
+Begin to deploy openldap:latest as ldap
+0. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+1. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+2. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+3. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+4. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+5. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+6. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+7. LDAP is not ready yet, wait 30 seconds and check again....
+usage: sleep seconds
+ldap container started, check ldap service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+Need to restart LDAP service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+ldap container started, check ldap service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+Need to restart LDAP service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+ldap container started, check ldap service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+Need to restart LDAP service now.
+sed: can't read /etc/ldap/slapd.d/cn=config.ldif: No such file or directory
+ldap container started, check ldap service now.
+LDAP service is ready.
+==========================================
+Wed Sep  6 19:38:06 CEST 2023
+Add users to the OpenLDAP server
+adding new entry "cn=P8Admin,dc=ecm,dc=ibm,dc=com"
+
+adding new entry "cn=tester,dc=ecm,dc=ibm,dc=com"
+
+adding new entry "cn=P8Admins,dc=ecm,dc=ibm,dc=com"
+
+adding new entry "cn=GeneralUsers,dc=ecm,dc=ibm,dc=com"
+
+modifying entry "olcDatabase={1}mdb,cn=config"
+
+LDAP users successfully added
+Add LDAP users completed successfully
+[36mFinished deploying ldap container successfully [0m
+==========================================
+deployDB2.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:38:06 CEST 2023
+Begin to deploy db2:latest as db2
+Create DB2 configuration folder...
+Removing existing /Users/inzitzma/cpit_data/db2_data folder...
+  - creating /Users/inzitzma/cpit_data/db2_data/db2script
+  - creating /Users/inzitzma/cpit_data/db2_data/storage
+Created DB2 config folder successfully
+Copy DB2 configuration files start...
+Copied DB2 configuration files to /Users/inzitzma/cpit_data/db2_data successfully
+Start Db2 docker container now...
+DB2 is starting please wait...
+ 1. DB2 docker container still not ready, wait 30 seconds and check again....
+ 2. DB2 docker container still not ready, wait 30 seconds and check again....
+ls: cannot access '/database/data/db2inst1/NODE0000': No such file or directory
+[36mDB2 docker container started successfully [0m
+Begin to create the GCDDB,ICNDB,OS1DB database...
+set CUR_COMMIT=ON
+Begin to create GCDDB database
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+DB20000I  The CREATE DATABASE command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.8.0
+ SQL authorization ID   = DB2INST1
+ Local database alias   = GCDDB
+
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The DEACTIVATE DATABASE command completed successfully.
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.8.0
+ SQL authorization ID   = DB2INST1
+ Local database alias   = GCDDB
+
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+Grant user db2inst1 access to tablespace
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The SQL command completed successfully.
+DB20000I  The ACTIVATE DATABASE command completed successfully.
+Begin to create OS1DB database
+OS1DB
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+DB20000I  The CREATE DATABASE command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.8.0
+ SQL authorization ID   = DB2INST1
+ Local database alias   = OS1DB
+
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The DEACTIVATE DATABASE command completed successfully.
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.8.0
+ SQL authorization ID   = DB2INST1
+ Local database alias   = OS1DB
+
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+DB20000I  The SQL command completed successfully.
+Grant user db2inst1 access to tablespace
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The SQL command completed successfully.
+DB20000I  The ACTIVATE DATABASE command completed successfully.
+Begin to create ICNDB database
+==========================================
+Executing CreateICNDB Commands ...
+Wed Sep  6 17:40:28 UTC 2023
+Starting DB operations...
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+Creating ICNDB database and tablespaces...
+/db2fs/ICNDB
+DB20000I  The CREATE DATABASE command completed successfully.
+
+   Database Connection Information
+
+ Database server        = DB2/LINUXX8664 11.5.8.0
+ SQL authorization ID   = DB2INST1
+ Local database alias   = ICNDB
+
+DB20000I  The UPDATE DATABASE CONFIGURATION command completed successfully.
+SQL1363W  One or more of the parameters submitted for immediate modification 
+were not changed dynamically. For these configuration parameters, the database 
+must be shutdown and reactivated before the configuration parameter changes 
+become effective.
+DB20000I  The SQL command completed successfully.
+--------------------
+[36mAll databases created successfully [0m
+[36mDeploy db2 container and create database took 2 minute(s) [0m
+[36mFinished deploying db2 container and created the databases successfully [0m
+==========================================
+deployCPE.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:40:58 CEST 2023
+Starting to deploy filenet_content_platform_engine:latest as cpe
+Create CPE configuration folder...
+Removing existing /Users/inzitzma/cpit_data/cpe_data folder...
+  - creating /Users/inzitzma/cpit_data/cpe_data/FileNet
+  - creating /Users/inzitzma/cpit_data/cpe_data/logs
+  - creating /Users/inzitzma/cpit_data/cpe_data/asa
+  - creating /Users/inzitzma/cpit_data/cpe_data/textext
+  - creating /Users/inzitzma/cpit_data/cpe_data/icmrules
+  - creating /Users/inzitzma/cpit_data/cpe_data/configDropins/overrides
+  - creating /Users/inzitzma/cpit_data/cpe_data/bootstrap
+Created CPE configuration folder successfully
+Copy CPE configuration files start...
+Copied CPE configuration files to /Users/inzitzma/cpit_data/cpe_data successfully
+Start CPE docker container now...
+Deployed CPE container successfully
+[36mFinished deploying cpe container successfully [0m
+==========================================
+createP8Domain.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:40:58 CEST 2023
+Create P8 Domain P8Domain
+0. Liberty has not started yet, wait 30 seconds and try again....
+1. Liberty has not started yet, wait 30 seconds and try again....
+2. Liberty has not started yet, wait 30 seconds and try again....
+3. Liberty has not started yet, wait 30 seconds and try again....
+4. Liberty has not started yet, wait 30 seconds and try again....
+5. Liberty has not started yet, wait 30 seconds and try again....
+6. Liberty has not started yet, wait 30 seconds and try again....
+7. Liberty has not started yet, wait 30 seconds and try again....
+8. Liberty has not started yet, wait 30 seconds and try again....
+9. Liberty has not started yet, wait 30 seconds and try again....
+10. Liberty has not started yet, wait 30 seconds and try again....
+11. Liberty has not started yet, wait 30 seconds and try again....
+12. Liberty has not started yet, wait 30 seconds and try again....
+13. Liberty has not started yet, wait 30 seconds and try again....
+14. Liberty has not started yet, wait 30 seconds and try again....
+15. Liberty has not started yet, wait 30 seconds and try again....
+16. Liberty has not started yet, wait 30 seconds and try again....
+17. Liberty has not started yet, wait 30 seconds and try again....
+18. Liberty has not started yet, wait 30 seconds and try again....
+20230906195116 
+You have accepted the IBM software license agreements, continuing to run now.
+The script are running on a Mac OS, below is the system info:
+================================================================================
+Host  name: Ingos-MBP.home.arpa
+OS version: 		macOS  13.5.1
+Kernel:     Darwin Kernel Version 22.6.0
+CPU:        8  Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz
+CPU load average (1/5/15 mins):  1.81 1.86 2.00
+--------------------------------------------------------------------------------
+PhysMem: 55G used (4758M wired, 360M compressor), 8942M unused.
+--------------------------------------------------------------------------------
+Filesystem       Size   Used  Avail Capacity iused       ifree %iused  Mounted on
+/dev/disk1s1s1  1.8Ti  8.5Gi  1.7Ti     1%  356050  4294310798    0%   /
+devfs           190Ki  190Ki    0Bi   100%     658           0  100%   /dev
+/dev/disk1s2    1.8Ti  1.7Gi  1.7Ti     1%     966 18124938240    0%   /System/Volumes/Preboot
+/dev/disk1s4    1.8Ti  1.0Gi  1.7Ti     1%       1 18124938240    0%   /System/Volumes/VM
+/dev/disk1s6    1.8Ti  5.7Mi  1.7Ti     1%      22 18124938240    0%   /System/Volumes/Update
+/dev/disk1s5    1.8Ti  122Gi  1.7Ti     7%  613136 18124938240    0%   /System/Volumes/Data
+map auto_home     0Bi    0Bi    0Bi   100%       0           0  100%   /System/Volumes/Data/home
+================================================================================
+/Users/inzitzma/Temp/Container-PIT/install-scripts/gatherHostInfo.sh: line 115: 1.7Ti: syntax error: invalid arithmetic operator (error token is ".7Ti")
+[36mFound correct OpenLDAP container[0m
+[36mFound correct DB2 container[0m
+==========================================
+Wed Sep  6 19:51:24 CEST 2023
+Begin to check user credential
+Docker Hub User Id and password found in file, continue the installation now.
+[36mFinished getting user's credential [0m
+==========================================
+installDockerEnv.sh was not run before, running now!
+==========================================
+Begin installing docker libraries
+Wed Sep  6 19:51:24 CEST 2023
+Docker already installed and running...
+Docker is running.
+WARNING: daemon is not using the default seccomp profile
+Current allocated memory for Docker is 7.674 GB.
+Your memory setting satisfied the requirement.
+/Users/inzitzma/Temp/Container-PIT/install-scripts/installDockerEnv.sh: line 131: easy_install: command not found
+WARNING: The directory '/Users/inzitzma/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Requirement already satisfied: docker-py in /usr/local/lib/python3.11/site-packages (1.10.6)
+Requirement already satisfied: docker-pycreds>=0.2.1 in /usr/local/lib/python3.11/site-packages (from docker-py) (0.4.0)
+Requirement already satisfied: requests!=2.11.0,>=2.5.2 in /usr/local/lib/python3.11/site-packages (from docker-py) (2.31.0)
+Requirement already satisfied: six>=1.4.0 in /usr/local/lib/python3.11/site-packages (from docker-py) (1.16.0)
+Requirement already satisfied: websocket-client>=0.32.0 in /usr/local/lib/python3.11/site-packages (from docker-py) (1.6.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (3.2.0)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (2.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.11/site-packages (from requests!=2.11.0,>=2.5.2->docker-py) (2023.7.22)
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[36mFinished installing all required libraries[0m
+==========================================
+downloadImages.sh was not run before, running now!
+deployJDK.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:51:25 CEST 2023
+Begin to deploy ibmjava:8-sdk as ibmjdk
+Start JDK docker container now...
+[36mFinished deploying ibmjdk container successfully [0m
+==========================================
+updateConfigFiles.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:51:26 CEST 2023
+Begin to update the configuration files for P8 and ICN
+Begin to set hostname to Ingos-MBP.home.arpa:
+  - Updated hostname for setProperties.sh
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/FNGCDDS.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/OS1DB.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/common/ldap.xml
+  - Updated hostname for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/ICN/ICNDS.xml
+Updated ldap password in /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/common/ldap.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/DB2/.env_list
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/FNGCDDS.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/CPE/OS1DB.xml
+  - Updated password for /Users/inzitzma/Temp/Container-PIT/install-scripts/config-files/ICN/ICNDS.xml
+No need to update the volume folder location.
+  - CPE_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/cpe_data
+  - ICN_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/icn_data
+  - DB2_CONFIGFILES_LOC=/Users/inzitzma/cpit_data/db2_data
+[36mFinished updating all the configuration files, now we are ready to go! [0m
+==========================================
+deployLDAP.sh was not run before, running now!
+==========================================
+Wed Sep  6 19:51:26 CEST 2023
+Begin to deploy openldap:latest as ldap
+0. LDAP is not ready yet, wait 30 seconds and check again....

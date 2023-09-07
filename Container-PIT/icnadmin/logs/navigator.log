@@ -1,0 +1,14 @@
+2023-09-06 20:37:19,330 - navigator - INFO - Going to encrypt username and password for: P8Admin
+2023-09-06 20:37:19,331 - navigator - INFO - testLogin()http://Ingos-MBP.home.arpa:9081/navigator/jaxrs/logon
+2023-09-06 20:37:19,331 - navigator - INFO - desktopUrl: http://Ingos-MBP.home.arpa:9081/navigator/jaxrs/logon
+2023-09-06 20:37:19,331 - navigator - INFO - params: desktop
+2023-09-06 20:37:19,331 - navigator - INFO - Going to try to connect to http://Ingos-MBP.home.arpa:9081/navigator/jaxrs/logon
+2023-09-06 20:37:20,137 - navigator - INFO - We have connected to http://Ingos-MBP.home.arpa:9081/navigator/?desktop=admin
+2023-09-06 20:37:20,137 - navigator - INFO - addP8Repository()
+2023-09-06 20:37:20,196 - navigator - INFO - Creation of p8 repository returned with status code: 200
+2023-09-06 20:37:20,196 - navigator - INFO - listRepositories()
+2023-09-06 20:37:20,212 - navigator - INFO - getP8Repo : ['P8Repository']
+2023-09-06 20:37:20,212 - navigator - INFO - createDesktop()
+2023-09-06 20:37:20,213 - navigator - INFO - Going to create desktop ECM
+2023-09-06 20:37:20,213 - navigator - INFO - url :http://Ingos-MBP.home.arpa:9081/navigator/jaxrs/admin/updateAdminDesktopData
+2023-09-06 20:37:20,294 - navigator - INFO - Created Desktop ECM
